@@ -107,3 +107,15 @@ D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\obj\Debug\net8.0\MinApiLivro
 D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\obj\Debug\net8.0\MinApiLivros.genruntimeconfig.cache
 D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\obj\Debug\net8.0\ref\MinApiLivros.dll
 D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\obj\Debug\net8.0\MinApiLivros.sourcelink.json
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901 (1).sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetroleclaims.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetroles.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetuserclaims.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetuserlogins.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetuserroles.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetusers.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_aspnetusertokens.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb_livros.sql
+D:\Projeto_ASP.NET_Core\MIN_API_LIVROS\MinApiLivros\bin\Debug\net8.0\ScriptDB\Dump20250901\livrosdb___efmigrationshistory.sql
